@@ -1,0 +1,15 @@
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/bin/Debug/net6.0/RandomValues
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/bin/Debug/net6.0/RandomValues.deps.json
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/bin/Debug/net6.0/RandomValues.runtimeconfig.json
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/bin/Debug/net6.0/RandomValues.dll
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/bin/Debug/net6.0/RandomValues.pdb
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.csproj.AssemblyReference.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.AssemblyInfoInputs.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.AssemblyInfo.cs
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.csproj.CoreCompileInputs.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.dll
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/refint/RandomValues.dll
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.pdb
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/RandomValues.genruntimeconfig.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/RandomValues/obj/Debug/net6.0/ref/RandomValues.dll
