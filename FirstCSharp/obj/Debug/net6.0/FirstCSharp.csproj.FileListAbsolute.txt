@@ -1,0 +1,15 @@
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/bin/Debug/net6.0/FirstCSharp
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/bin/Debug/net6.0/FirstCSharp.deps.json
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/bin/Debug/net6.0/FirstCSharp.runtimeconfig.json
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/bin/Debug/net6.0/FirstCSharp.dll
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/bin/Debug/net6.0/FirstCSharp.pdb
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.AssemblyReference.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfoInputs.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfo.cs
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.dll
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/refint/FirstCSharp.dll
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.pdb
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/FirstCSharp.genruntimeconfig.cache
+/Users/ktmn/Desktop/GitHub/csharp-stack-assignments/FirstCSharp/obj/Debug/net6.0/ref/FirstCSharp.dll
